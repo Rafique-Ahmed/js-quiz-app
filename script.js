@@ -85,12 +85,11 @@ const questions = [
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'Who is Prime Minister of Pakistan?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Imran Khan', correct: true },
+      { text: 'Nawaz Sharid', correct: false },
+      { text: 'Asif Zardari', correct: false },
     ]
   },
   {
